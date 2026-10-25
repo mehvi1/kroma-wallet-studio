@@ -4,7 +4,7 @@ Kroma has an original Mac interface and one workflow: connect an iPhone, scan a 
 
 ## Download
 
-The GitHub repository is currently private and has no customer release. A downloadable public build is not ready until membership hosting, private skin storage, Developer ID signing, notarization, and iPhone testing are complete. Kroma currently builds for macOS 14 or newer on Apple Silicon and Intel Macs; there is no Windows build.
+The source repository is public, but it has no customer release yet. A downloadable Mac build is not ready until membership hosting, private skin storage, Developer ID signing, notarization, and iPhone testing are complete. Kroma currently builds for macOS 14 or newer on Apple Silicon and Intel Macs; there is no Windows build.
 
 Preview builds are ad-hoc signed and are not notarized by Apple. This means macOS may refuse to open a downloaded copy. A public release that installs normally needs a Developer ID signature and Apple notarization; this repository does not include those credentials.
 
