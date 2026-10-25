@@ -1,0 +1,14 @@
+.DS_Store
+upstream-reference/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*~
+build/
+.tmp/
+*.dmg
+.serena/
+
+# Private premium artwork is uploaded to R2, never committed.
+assets/skins/*.webp
